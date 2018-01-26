@@ -3,4 +3,10 @@
     <head>
         <title>This is a test</title>
     </head>
+
+    <body>
+        <h1>I'm a teapot.</h1>
+        <h2>Yay</h2>
+        <h3>Short</h3>
+    </body>
 </html>
